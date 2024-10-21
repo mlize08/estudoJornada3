@@ -1,4 +1,4 @@
-body{
+body {
     color: white;
     background-color: black;
 }
@@ -13,16 +13,18 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
-   }
+}
 
-p{ color: red;}
+p {
+    color: red;
+}
 
 img {
     height: 200px;
-  }
-  .categoria-videos {
-    display: flex;
- overflow-x: auto;
- gap: 10px;
 }
-  
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
