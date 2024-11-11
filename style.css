@@ -1,7 +1,7 @@
 body {
     color: white;
     background-color: black;
-}
+    font-family: "Chakra Petch", sans-serif;
 
 .chamada {
     background: rgb(184, 156, 213);
@@ -15,8 +15,13 @@ body {
     margin-right: 5%;
 }
 
+h1{
+    font-size: 40px;
+}
+
 p {
     color: red;
+    font-size: 20px ;
 }
 
 img {
